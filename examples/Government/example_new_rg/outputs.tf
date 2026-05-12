@@ -1,6 +1,5 @@
 # Copyright (c) Microsoft Corporation.
 # Licensed under the MIT License.
 
-output "echo_text" {
-  value = module.echo.echo_text
-}
+# The template module currently exposes no outputs. Add example-level
+# outputs here once the root module declares them (see ../../../outputs.tf).
